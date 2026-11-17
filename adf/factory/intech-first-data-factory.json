@@ -1,0 +1,15 @@
+{
+	"name": "intech-first-data-factory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "qatarcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2a103527-8990-4216-aa0e-ecc48bdcb6f9",
+		"tenantId": "2f0a9ca4-344d-4800-a78a-86ee813c03f4"
+	}
+}
