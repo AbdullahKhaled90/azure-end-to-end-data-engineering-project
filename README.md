@@ -94,6 +94,3 @@ Lookup → ForEach (Copy) → BronzeToSilver → SilverToGold
 - Data quality checks between layers
 
 ---
-
-## Acknowledgement
-Built by following <!-- add tutorial name and link -->, adapted for the current Azure platform (2026), where several steps in the original no longer work as shown.
