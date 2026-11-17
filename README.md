@@ -2,7 +2,7 @@
 
 An end-to-end data pipeline on Microsoft Azure that moves data from an **on-premises SQL Server** database to a **Power BI** report, using the **Medallion Architecture** (Bronze → Silver → Gold).
 
-![Architecture](architecture/architecture.png)
+Architecture
 
 ---
 
