@@ -74,13 +74,6 @@ Lookup → ForEach (Copy) → BronzeToSilver → SilverToGold
 ├── databricks/
 │   ├── bronze_to_silver.py
 │   └── silver_to_gold.py
-├── sql/
-│   ├── 01_create_login_and_user.sql
-│   └── 02_create_serverless_view_proc.sql
-├── powerbi/
-│   └── report.pbix
-├── architecture/
-│   └── architecture.png
 └── README.md
 ```
 
